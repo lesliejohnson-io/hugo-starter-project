@@ -1,5 +1,5 @@
 # Hugo Starter Project
-The [Hugo](https://gohugo.io/) boilerplate I use for projects.
+The [Hugo](https://gohugo.io/) boilerplate for projects.
 
 
 **Disclaimer** - This boilerplate has been heavily integrated with [Netlify](https://www.netlify.com/), and therefore many features are specific to the Netlify platform and may not work with other hosting providers.
@@ -145,7 +145,3 @@ If you wish the develop your site as a theme inside Hugo Starter Project, you ca
 You can deploy directly to Netlify using this button:
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jonyablonski/hugo-starter-project)
-
-
-## License
-MIT © [Jon Yablonski](https://jonyablonski.com/)
